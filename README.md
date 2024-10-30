@@ -56,7 +56,7 @@ Overall, this project challenged me to think creatively and problem-solve in ord
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/FAQ-accordion-card.git
+git clone https://github.com/CodeWithAlamin/FAQ-accordion-card.git
 ```
 
 - Install dependencies:
@@ -75,10 +75,10 @@ npm run build
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
@@ -92,4 +92,4 @@ I would like to express my gratitude to Frontend Mentor for providing this proje
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/CodePapa360/FAQ-Accordion-card/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
+This project is licensed under the [MIT](https://github.com/CodeWithAlamin/FAQ-Accordion-card/blob/main/LICENSE.md) license, which means you can use, modify, and distribute the code as you wish. If you have any questions or feedback, feel free to reach out. Thank you for considering my code!
